@@ -1,0 +1,3 @@
+Abastração
+Polimorfismo
+Herança
